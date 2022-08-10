@@ -1,4 +1,4 @@
-# url_shortner
+# Url Shortener
 <h1> A Python project for shotening urls </h1>
 <article> How to use it? <br>
 Use following commands :- <br>
@@ -11,6 +11,6 @@ Use following commands :- <br>
 <code> sudo pip install pyshorteners </code> <br>
   
 <hr>
-<code> git clone https://github.com/rehxnnq/url_shortner.git </code> <br>
-<code> cd url_shortner </code> <br>
+<code> git clone https://github.com/rehxnnq/url_shortener.git </code> <br>
+<code> cd url_shortener </code> <br>
 <code> python3 shortener.py </code>
