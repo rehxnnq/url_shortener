@@ -1,5 +1,5 @@
 '''
-URL Shortner in Python
+URL shortener in Python
 Author: Rehxnnq
 '''
 
